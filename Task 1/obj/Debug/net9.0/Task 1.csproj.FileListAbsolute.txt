@@ -1,0 +1,14 @@
+C:\Users\basne\OneDrive\Desktop\Week 6\Week 6\Task 1\obj\Debug\net9.0\Task 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basne\OneDrive\Desktop\Week 6\Week 6\Task 1\obj\Debug\net9.0\Task 1.AssemblyInfoInputs.cache
+C:\Users\basne\OneDrive\Desktop\Week 6\Week 6\Task 1\obj\Debug\net9.0\Task 1.AssemblyInfo.cs
+C:\Users\basne\OneDrive\Desktop\Week 6\Week 6\Task 1\obj\Debug\net9.0\Task 1.csproj.CoreCompileInputs.cache
+C:\Users\basne\OneDrive\Desktop\Week 6\Week 6\Task 1\bin\Debug\net9.0\Task 1.exe
+C:\Users\basne\OneDrive\Desktop\Week 6\Week 6\Task 1\bin\Debug\net9.0\Task 1.deps.json
+C:\Users\basne\OneDrive\Desktop\Week 6\Week 6\Task 1\bin\Debug\net9.0\Task 1.runtimeconfig.json
+C:\Users\basne\OneDrive\Desktop\Week 6\Week 6\Task 1\bin\Debug\net9.0\Task 1.dll
+C:\Users\basne\OneDrive\Desktop\Week 6\Week 6\Task 1\bin\Debug\net9.0\Task 1.pdb
+C:\Users\basne\OneDrive\Desktop\Week 6\Week 6\Task 1\obj\Debug\net9.0\Task 1.dll
+C:\Users\basne\OneDrive\Desktop\Week 6\Week 6\Task 1\obj\Debug\net9.0\refint\Task 1.dll
+C:\Users\basne\OneDrive\Desktop\Week 6\Week 6\Task 1\obj\Debug\net9.0\Task 1.pdb
+C:\Users\basne\OneDrive\Desktop\Week 6\Week 6\Task 1\obj\Debug\net9.0\Task 1.genruntimeconfig.cache
+C:\Users\basne\OneDrive\Desktop\Week 6\Week 6\Task 1\obj\Debug\net9.0\ref\Task 1.dll
